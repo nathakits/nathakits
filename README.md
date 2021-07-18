@@ -1,5 +1,33 @@
 ### Hi i'm Nat 👋
 
+🔭 I’m currently...
+- Working as a Project Designer @ [Pupil Labs](https://pupil-labs.com)
+
+My website portfolio of design work and open source projects: [nathakits.com](https://nathakits.com/)
+
+### Open source projects
+- Spottie Figma plugin
+- QR Coder Figma plugin
+- Covid-19 Vaccine Tracker Twitter bot
+
+📫 How to reach me...
+- Twitter: [@nathakit_tan](https://twitter.com/nathakit_tan)
+- Email: nathakits@gmail.com
+
+👯 I’m looking to collaborate on ...
+- Open source projects projects
+- Civil Tech
+- Environmental projects
+
+⚡ Fun facts...
+- Environmentalist 🌏
+- I'm a rescue diver 🌊
+- I love craft beer! 🍻
+- love video games 🎮
+
+<a href='https://ko-fi.com/J3J03QZC1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
 <!--
 **nathakits/nathakits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
