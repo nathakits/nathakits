@@ -1,4 +1,4 @@
-### Hi i'm Nat 👋
+### Hi i'm Nat (ฮวด) 👋
 
 🔭 I’m currently...
 - Working as a Project Designer @ [Pupil Labs](https://pupil-labs.com)
