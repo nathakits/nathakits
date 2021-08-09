@@ -1,7 +1,7 @@
 ### Hi i'm Nat (ฮวด) 👋
 
 🔭 I’m currently...
-- Working as a Project Designer @ [Pupil Labs](https://pupil-labs.com)
+- Working as a Product Designer @ [Pupil Labs](https://pupil-labs.com)
 
 My website portfolio of design work and open source projects: [nathakits.com](https://nathakits.com/)
 
