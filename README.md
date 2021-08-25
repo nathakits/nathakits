@@ -12,7 +12,7 @@ My website portfolio of design work and open source projects: [nathakits.com](ht
 
 📫 How to reach me...
 - Twitter: [@nathakit_tan](https://twitter.com/nathakit_tan)
-- Email: nathakits@gmail.com
+- Email: nathakit.tan@gmail.com
 
 👯 I’m looking to collaborate on ...
 - Open source projects projects
