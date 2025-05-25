@@ -39,8 +39,7 @@ Always building something weird, useful, or both.
 ## 🎲 Fun facts
 - I love surfing, diving, and getting lost in the mountains 🏄‍♂️  
 - Passionate about craft beer and fermentation science 🍺  
-- Gamer, filmmaker, sci-fi nerd 🎮🎥🌌  
-- Thai, queer, and proud 🏳️‍🌈
+- Gamer, filmmaker, sci-fi nerd 🎮🎥🌌
 
 ---
 
