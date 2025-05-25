@@ -1,31 +1,54 @@
-### Hi i'm Nat (ฮวด) 👋
+# 👋 Hi, I'm Nat (ฮวด)
 
-🔭 I’m currently...
-- Working as a Product Designer @ [Pupil Labs](https://pupil-labs.com)
+🎨 Product Designer · 🌱 Indie Hacker · ⚙️ Tinkerer  
+Currently crafting tools for eye tracking at [Pupil Labs](https://pupil-labs.com)  
+Always building something weird, useful, or both.
 
-My website portfolio of design work and open source projects: [nathakits.com](https://nathakits.com/)
+🌐 Portfolio & projects: [nathakits.com](https://nathakits.com)
 
-### Open source projects
-- Spottie Figma plugin
-- QR Coder Figma plugin
-- Covid-19 Vaccine Tracker Twitter bot
+---
 
-📫 How to reach me...
-- Twitter: [@nathakit_tan](https://twitter.com/nathakit_tan)
-- Email: nathakit.tan@gmail.com
+## 🛠️ What I'm working on
+- Building AI tools for brewing, biomaterials, and civic tech 🌿⚗️
+- Prototyping a mycelium-based product design lab 🧫
+- Exploring next-gen developer tools, UI/UX systems, and open-source civic platforms
 
-👯 I’m looking to collaborate on ...
-- Open source projects projects
-- Civil Tech
-- Environmental projects
+---
 
-⚡ Fun facts...
-- Environmentalist 🌏
-- I'm a rescue diver 🌊
-- I love craft beer! 🍻
-- love video games 🎮
+## 🧪 Side Projects
+- 🎧 **Spottie** – Figma plugin for Spotify-inspired UI designs  
+- 📦 **QR Coder** – Quick and simple QR code generator for Figma  
+- 💉 **Covid-19 Vaccine Tracker Bot** – Real-time updates for Thailand during the pandemic  
+- 🧠 *In Progress:* AI brewing assistant, ADHD companion app, open civic platform for Thailand
 
-<a href='https://ko-fi.com/J3J03QZC1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+---
+
+## 🤝 Let's collaborate on
+- Open source tools with design focus
+- Civic tech, climate resilience, sustainability
+- Biotech, mycelium, and future materials
+
+---
+
+## ✉️ Reach me
+- Twitter: [@nathakit_tan](https://twitter.com/nathakit_tan)  
+- Email: [nathakit.tan@gmail.com](mailto:nathakit.tan@gmail.com)
+
+---
+
+## 🎲 Fun facts
+- I love surfing, diving, and getting lost in the mountains 🏄‍♂️  
+- Passionate about craft beer and fermentation science 🍺  
+- Gamer, filmmaker, sci-fi nerd 🎮🎥🌌  
+- Thai, queer, and proud 🏳️‍🌈
+
+---
+
+☕ If you like what I build:  
+<a href='https://ko-fi.com/J3J03QZC1' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
+
 
 
 <!--
