@@ -31,7 +31,7 @@ Always building something weird, useful, or both.
 ---
 
 ## ✉️ Reach me
-- Twitter: [@nathakit_tan](https://twitter.com/nathakit_tan)  
+- X: [@nathakit_tan](https://twitter.com/nathakit_tan)  
 - Email: [nathakit.tan@gmail.com](mailto:nathakit.tan@gmail.com)
 
 ---
